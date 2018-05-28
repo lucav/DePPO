@@ -22,14 +22,26 @@ A proposal for a new kind of Political Party organization.
    - the minutes for debate [0.1]
    - the quorum needed for execute a motion [0.1]
 
-## To-do
-...
+## To-Do List
+ 
+ #### General
+ - [ ] Improve: Reduce the power of the smart contract's owner
+ - [ ] Improve: vote weight managements (should be modified on need)
+ - [ ] Improve: quorum could be managed also as percentage
+ - [ ] New: Create a motion where only the Council (councelors) can vote 
+ 
+ #### Development
+ - [ ] Improve: Make better abstraction (smart contracts)
+ - [ ] New: Create tests
+ - [ ] New: Create an automatic deletion for Mist db/chain folder on truffle migration reset task (as a separate task)
 
 *Any suggestions are welcome!*
 
 ## Tech
 ![Solidity](https://raw.githubusercontent.com/lucav/Resources/master/solidity-logo.png)
+
 ![Truffle](https://raw.githubusercontent.com/lucav/Resources/master/truffle-logo.png)
+
 ![OpenZeppelin](https://raw.githubusercontent.com/lucav/Resources/master/openzeppelin-logo.png)
 
 Developed in the following Windows environment:
