@@ -3,7 +3,7 @@
 A proposal for a new kind of Political Party organization.
 
 ## Features 
- - A new member can pay a fee for enter in the party (like a subscription) [0.1]
+ - A new member can pay a fee for enter in the political party (like a subscription) [0.1]
  - Set/Get the fee amount (in Finney, milli Ether) for a new member [0.1]
  - Anyone can send donation (if him is already a member or if send more then the fee amount) [0.1]
  - A new member can be added manually by the smart contract's owner without pay the fee [0.1]
@@ -15,7 +15,7 @@ A proposal for a new kind of Political Party organization.
  - Voting rules: 
    - minimum minutes for debate [0.1]
    - quorum need for execute a motion [0.1]
-   - yes, no, abstention vote options (the abstention vote will be count for the quorum) [0.1]   
+   - yes, no, abstention as vote options (the abstention vote will be count for the quorum) [0.1]   
    - each member vote with their own vote weight (that can be more then 1, like the President for example) [0.1]
    - any valid member can vote (should not was expelled and vote weight > 0) [0.1]
  - A councelor can modify the voting rules about:
