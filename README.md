@@ -3,11 +3,15 @@
 A proposal for a new kind of Political Party organization.
 
 ## Tech
-Developed with in the following Windows environment:
+
+Developed in the following Windows environment:
  - Visual Studio Code (with plugin for Solidity)
  - Truffle
  - Ganache
  - Mist (for easy smart contract use)
+
+Solidity frameworks:
+ - OpenZeppelin
 
 ## Version
 
