@@ -1,5 +1,5 @@
 # DePPO
-### Decentralized Political Party Organization
+## Decentralized Political Party Organization
 A proposal for a new kind of Political Party organization.
 
 ## Features 
@@ -22,6 +22,11 @@ A proposal for a new kind of Political Party organization.
    - the minutes for debate [0.1]
    - the quorum needed for execute a motion [0.1]
 
+## To-do
+...
+
+*Any suggestions are welcome!*
+
 ## Tech
 ![Solidity](https://raw.githubusercontent.com/lucav/Resources/master/solidity-logo.png)
 ![Truffle](https://raw.githubusercontent.com/lucav/Resources/master/truffle-logo.png)
@@ -36,12 +41,14 @@ Developed in the following Windows environment:
 Solidity frameworks:
  - OpenZeppelin
 
-## Version
+## Versions
 
 [0.1] - First Commit
 
 ### License
 GNU GENERAL PUBLIC LICENSE Version 3
+
+*If you wish to fork or use this code in some other way, please refeer to the authors in your code, thanks!*
 
 #### Disclaimer
 *No warranty provided. All product names, logos, and brands are property of their respective owners.*
