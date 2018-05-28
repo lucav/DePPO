@@ -39,9 +39,7 @@ A proposal for a new kind of Political Party organization.
 
 ## Tech
 [![Solidity](https://raw.githubusercontent.com/lucav/Resources/master/solidity-logo.png)](https://solidity.readthedocs.io/en/v0.4.24/index.html)
-
 [![Truffle](https://raw.githubusercontent.com/lucav/Resources/master/truffle-logo.png)](http://truffleframework.com/)
-
 [![OpenZeppelin](https://raw.githubusercontent.com/lucav/Resources/master/openzeppelin-logo.png)](https://openzeppelin.org/)
 
 Developed in the following Windows environment:
