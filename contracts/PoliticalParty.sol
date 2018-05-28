@@ -60,7 +60,7 @@ contract PoliticalParty is PPMembers, PPMotions {
       emit Withdraw(owner, finneyAmount * 1 finney);
 	}
 
-	function getBalance() external onlyOwner view returns (uint) {
+	function getBalance() external view returns (uint) {
     	return address(this).balance;
   }
 
